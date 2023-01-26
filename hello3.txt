@@ -1,1 +1,2 @@
 hello from intellij
+this had a bug and i fixed it!
